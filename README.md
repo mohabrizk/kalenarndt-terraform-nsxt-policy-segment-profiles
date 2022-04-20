@@ -1,4 +1,4 @@
-# terraform-nsxt-nsxt-gcve-dhcp
+# terraform-nsxt-nsxt-policy-segment-profiles
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
